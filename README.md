@@ -22,6 +22,15 @@ Frontend technologies refer to the tools, languages, and frameworks used for des
 
 10. jQuery: It is a JavaScript library that simplifies HTML document traversal and manipulation, event handling, and animation.
 
+| Plugin | README |
+| ------ | ------ |
+| HTML | https://html.com |
+| CSS | https://css.com |
+| JS | https://javascript.com |
+| Vue.js | https://vuejs.org/ |
+| React.js | https://legacy.reactjs.org/ |
+| Tailwind CSS | https://tailwindcss.com/ |
+
 ## List of Projects
 - [Tables](https://prathaprathod.github.io/html/tables.html)
 - [Lists](https://prathaprathod.github.io/html/list.html)
@@ -32,13 +41,3 @@ Frontend technologies refer to the tools, languages, and frameworks used for des
 - Here are the projects that i have made for it will be available free to use.
 
 - Let me if You want changes or Fork it to want to change something.
-
-| Plugin | README |
-| ------ | ------ |
-| HTML | https://html.com |
-| CSS | https://css.com |
-| JS | https://javascript.com |
-| Vue.js | https://vuejs.org/ |
-| React.js | https://legacy.reactjs.org/ |
-| Tailwind CSS | https://tailwindcss.com/ |
-
