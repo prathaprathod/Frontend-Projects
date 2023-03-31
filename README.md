@@ -34,7 +34,7 @@ Frontend technologies refer to the tools, languages, and frameworks used for des
 ## List of Projects
 - [Tables](https://prathaprathod.github.io/Frontend-Projects/html/tables.html)
 - [Lists](https://prathaprathod.github.io/Frontend-Projects/html/list.html)
-- [Copy/Paste to Markdown](https://prathaprathod.github.io/Frontend-Projects/c2m
+- [Copy/Paste to Markdown](https://prathaprathod.github.io/Frontend-Projects/c2m)
 
 
  Frontend Projects only using HTML, CSS, and Javascript.
