@@ -1,4 +1,4 @@
-clipboard2markdown
+Copy to and Paste to Markdown
 ==================
 
 > Easily convert richly formatted text or HTML to
@@ -8,17 +8,6 @@ clipboard2markdown
 > The conversion is carried out by
 > [to-markdown](https://github.com/domchristie/to-markdown),
 > a Markdown converter running in the browser.
-
-Demo
-----
-
-### Interactive
-
-<http://euangoddard.github.io/clipboard2markdown/>
-
-### Video
-
-![Screencast](screencast.gif)
 
 Usage
 -----
@@ -41,8 +30,8 @@ One can paste multiple times. This overwrites the previous conversion.
 About
 -----
 
-[clipboard2markdown](https://github.com/euangoddard/clipboard2markdown)
-was created by [Euan Goddard](https://github.com/euangoddard).
+[Paste to Markdown](https://github.com/euangoddard/Frontend-Projects/c2m)
+was created by [Prathap Rathod](https://github.com/prathaprathod).
 The original version used
 [html2markdown](https://github.com/kates/html2markdown) by
 [Kates Gasis](https://github.com/kates) and
