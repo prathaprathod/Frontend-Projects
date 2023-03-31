@@ -24,12 +24,12 @@ Frontend technologies refer to the tools, languages, and frameworks used for des
 
 | Plugin | README |
 | ------ | ------ |
-| HTML | https://html.com |
-| CSS | https://css.com |
-| JS | https://javascript.com |
-| Vue.js | https://vuejs.org/ |
-| React.js | https://legacy.reactjs.org/ |
-| Tailwind CSS | https://tailwindcss.com/ |
+| HTML | [https://html.com](https://html.com) |
+| CSS | [https://css.com](https://css.com) |
+| JS | [https://javascript.com](https://javascript.com) |
+| Vue.js | [https://vuejs.org/](https://vuejs.org/) |
+| React.js | [https://legacy.reactjs.org/](https://legacy.reactjs.org/) |
+| Tailwind CSS | [https://tailwindcss.com/](https://tailwindcss.com/) |
 
 ## List of Projects
 - [Tables](https://prathaprathod.github.io/html/tables.html)
