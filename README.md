@@ -1,6 +1,6 @@
 # frontend-projects
 
-##List of Projects
+## List of Projects
 - [Tables](https://prathaprathod.github.io/html/tables.html)
 - [Lists](https://prathaprathod.github.io/html/list.html)
 
