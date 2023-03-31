@@ -32,3 +32,13 @@ Frontend technologies refer to the tools, languages, and frameworks used for des
 - Here are the projects that i have made for it will be available free to use.
 
 - Let me if You want changes or Fork it to want to change something.
+
+| Plugin | README |
+| ------ | ------ |
+| HTML | [https://html.com] |
+| CSS | [https://css.com] |
+| JS | [https://javascript.com] |
+| Vue.js | [https://vuejs.org/] |
+| React.js | [plugins/medium/README.md] |
+| Tailwind CSS | [plugins/googleanalytics/README.md] |
+
