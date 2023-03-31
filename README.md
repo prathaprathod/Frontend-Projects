@@ -32,7 +32,7 @@ Frontend technologies refer to the tools, languages, and frameworks used for des
 | Tailwind CSS | [https://tailwindcss.com/](https://tailwindcss.com/) |
 
 ## List of Projects
-- [Tables](https://prathaprathod.github.io/Frontend-Projects/html/tables.html)
+- [Tables] - List Of Linux Distro (https://prathaprathod.github.io/Frontend-Projects/html/tables.html)
 - [Lists](https://prathaprathod.github.io/Frontend-Projects/html/list.html)
 - [Copy/Paste to Markdown](https://prathaprathod.github.io/Frontend-Projects/c2m)
 
