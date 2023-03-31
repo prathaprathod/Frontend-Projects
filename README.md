@@ -1,4 +1,4 @@
-# frontend-projects
+# Frontend-Projects
 
 Frontend technologies refer to the tools, languages, and frameworks used for designing and building user interfaces (UI) on the web. Some of the popular frontend technologies are:
 
