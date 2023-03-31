@@ -22,7 +22,7 @@ Frontend technologies refer to the tools, languages, and frameworks used for des
 
 10. jQuery: It is a JavaScript library that simplifies HTML document traversal and manipulation, event handling, and animation.
 
-| Plugin | README |
+| Web Technologies | URL |
 | ------ | ------ |
 | HTML | [https://html.com](https://html.com) |
 | CSS | [https://css.com](https://css.com) |
