@@ -35,10 +35,10 @@ Frontend technologies refer to the tools, languages, and frameworks used for des
 
 | Plugin | README |
 | ------ | ------ |
-| HTML | [https://html.com] |
-| CSS | [https://css.com] |
-| JS | [https://javascript.com] |
-| Vue.js | [https://vuejs.org/] |
-| React.js | [plugins/medium/README.md] |
-| Tailwind CSS | [plugins/googleanalytics/README.md] |
+| HTML | https://html.com |
+| CSS | https://css.com |
+| JS | https://javascript.com |
+| Vue.js | https://vuejs.org/ |
+| React.js | https://legacy.reactjs.org/ |
+| Tailwind CSS | https://tailwindcss.com/ |
 
