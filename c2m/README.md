@@ -30,7 +30,7 @@ One can paste multiple times. This overwrites the previous conversion.
 About
 -----
 
-[Paste to Markdown](https://github.com/prathaprathod/Frontend-Projects/c2m)
+[Paste to Markdown](https://github.com/prathaprathod/Frontend-Projects/c2m/index.html)
 was created by [Prathap Rathod](https://github.com/prathaprathod).
 The original version used
 [html2markdown](https://github.com/kates/html2markdown) by
